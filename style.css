@@ -132,3 +132,10 @@ body {
     clear: both;
     margin-bottom: 20px;
 }
+
+.book-img {
+    width: 100px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
